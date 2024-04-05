@@ -1,2 +1,2 @@
-# HumbleServer-138M
-Vanilla Moddata hostata su HumbleServer con 138 mods, 10 GB Server
+# Vanilla Moddata HumbleServers da 138 mod
+## IP: 94.130.10.236:25653
